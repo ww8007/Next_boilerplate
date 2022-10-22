@@ -1,5 +1,4 @@
 import { Global, css } from '@emotion/react'
-import colors from './src/constants/colors'
 
 const GlobalStyle = () => (
     <Global
