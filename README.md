@@ -14,9 +14,7 @@
 </div>
 
 <div style="display: flex; align-items: flex-start;">
-    <img src="https://img.shields.io/badge/Next.js
-    -000000?style=for-the-badge&logo=Next.js
-    &logoColor=white" alt="icon" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="icon" />
     <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white" alt="icon" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white" alt="icon" />
     <img src="https://img.shields.io/badge/Testing Library-E33332?style=for-the-badge&logo=Testing Library&logoColor=white" alt="icon" />
